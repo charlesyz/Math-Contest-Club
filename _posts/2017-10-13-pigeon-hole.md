@@ -16,5 +16,5 @@ There are three general steps for any pigeon hole problem:
 [Questions and additional materials](https://docs.google.com/document/d/1WuGOLmxC8-HkkIR877GtKr55kvMJNjpML6Ttpr5T1-4/edit?usp=sharing)
 
 
-## [Back](/math-contest-club/blog)
+## [Back](/blog)
 
