@@ -11,5 +11,5 @@ Remember to study for the COMC math contest, which will take place on Tuesday, N
 
 ___	
 
-## [Back](/math-contest-club/blog)
+## [Back](/blog)
 
