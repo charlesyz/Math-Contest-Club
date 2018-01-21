@@ -7,7 +7,7 @@ Today, Joanna introduced us to Euler and his theories, starting with Euler's Num
 
 if you have any questions, you can email us at [lcimath@gmail.com](lcimath@gmail.com)
 
-[Questions and additional materials](https://docs.google.com/presentation/d/1B4tlVFsSyB_GBPnVwboMpg33lpJSBmUR3X4tWvxJHCs/edit?usp=sharing)
+[Lesson and additional materials](https://docs.google.com/presentation/d/1B4tlVFsSyB_GBPnVwboMpg33lpJSBmUR3X4tWvxJHCs/edit?usp=sharing)
 
 ___	
 

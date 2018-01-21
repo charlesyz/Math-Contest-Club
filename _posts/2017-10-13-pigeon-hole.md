@@ -13,7 +13,7 @@ There are three general steps for any pigeon hole problem:
    3. **Solve the rest of the problem**
    * Often, pigeon hole problems have an additional step beyond just the principle. This can be geometry, combinatorics, number theory, or even proofs!
 
-[Questions and additional materials](https://docs.google.com/document/d/1WuGOLmxC8-HkkIR877GtKr55kvMJNjpML6Ttpr5T1-4/edit?usp=sharing)
+[Lesson and additional materials](https://docs.google.com/document/d/1WuGOLmxC8-HkkIR877GtKr55kvMJNjpML6Ttpr5T1-4/edit?usp=sharing)
 
 
 ## [Back](/blog)
